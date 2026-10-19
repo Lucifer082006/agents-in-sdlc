@@ -6,9 +6,9 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-入门体验研讨会提供引导式介绍，无需现有应用程序或详细的开发场景即可探索 GitHub Copilot。每个研讨会都从小项目开始，在实际使用中介绍产品，并带着项目完成整个工作流。
+入门体验研讨会通过引导式介绍，帮助你探索 GitHub Copilot，无需现有应用程序或详细的开发场景。每个研讨会都从小处着手，在使用产品的过程中介绍其功能，并带你完成整个工作流。
 
-所有研讨会都从空文件夹构建同一个 Space Quiz，可以选择想学习的工具，也可以完成多个研讨会，对比不同工具的工作方式。
+所有研讨会都会从空文件夹构建同一个 Space Quiz。你可以选择想学习的工具，也可以完成多个研讨会，对比不同工具的工作方式。
 
 > [!NOTE]
 > 这些研讨会由 [James Montemagno][james] 创建，改编自 [First Steps with GitHub Copilot][source-lab]，原始内容采用 [MIT 许可证][source-license]。
@@ -25,7 +25,7 @@ lastUpdated: 2026-09-28
 
 ### [Visual Studio Code 入门][vscode]
 
-使用以编辑器为中心的工作流：在工作区中构建，通过集成浏览器优化元素，检查上下文，在向 Git 写入之前测试，先规划再编辑，并让 GitHub 工具处理议题、拉取请求和云会话，全程无需离开 VS Code。
+使用以编辑器为中心的工作流：在工作区中构建，通过集成浏览器完善页面，检查上下文，在 Git 写入更改前先测试，先规划再编辑，并在 VS Code 中使用 GitHub 工具处理议题、拉取请求和云会话。
 
 [james]: https://github.com/jamesmontemagno
 [source-lab]: https://github.com/jamesmontemagno/first-steps-with-github-copilot

@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-根据学习目标和期望的深入程度选择研讨会。**入门体验**提供 GitHub Copilot 引导式介绍，**真实场景开发**则使用完整应用程序和团队待办事项，练习面向生产环境的工作流。
+根据学习目标和希望探索的深度选择研讨会。**入门体验**提供 GitHub Copilot 引导式介绍，**真实场景开发**则使用完整应用程序和团队待办事项，练习面向生产环境的工作流。
 
 ## 入门体验
 
@@ -40,4 +40,4 @@ lastUpdated: 2026-09-28
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
